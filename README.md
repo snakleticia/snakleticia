@@ -1,5 +1,4 @@
 - 👋 Olá, eu sou @snakleticia
-- 👀 Eu tenho interesse em Pensamento Computacional
 - 📧 leticia.snak@escola.pr.gov.br
 - 
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
